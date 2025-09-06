@@ -1,4 +1,4 @@
-# Task4 : Currency Converter
+# Currency Converter
 * Objective of the Project
     ~ The main objective of this project is to develop a user-friendly application that converts an amount from one currency to another based on real-time or static     conversion rates.
   
