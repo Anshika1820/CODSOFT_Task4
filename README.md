@@ -84,9 +84,5 @@
            CAD	Canadian Dollar	       1.36
            AUD	Australian Dollar      1.48
           
-  * Overview of the frame-
-
-
-  ![currency](https://github.com/user-attachments/assets/7469bb37-ea67-4490-b046-46ab56642b8c)
-
+ 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
